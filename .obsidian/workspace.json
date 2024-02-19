@@ -1,0 +1,450 @@
+{
+  "main": {
+    "id": "394b40a272937318",
+    "type": "split",
+    "children": [
+      {
+        "id": "28e06c12dd4fa95d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9197c2c66937ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 1/2024-02-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b8f38743a80ec9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/class 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b72332f433644ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 1/2024-02-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "287e60a276bb109b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/class 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce43fb6027c68e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/class 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67a9823ac54a2041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 1/2024-02-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa1b7be80040f3a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/Mission - 리뷰 요청.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d694330149fe762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/1. 자동차 경주/📖 자동차 경주 피드백 (2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c109f14384397f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/1. 자동차 경주/🚀 2단계 - 자동차 경주 리팩터링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e1f91a29a0edda7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/1. 자동차 경주/📖 좋은 코드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeed816fac094762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/1. 자동차 경주/📖 단위 테스트 (with Jest).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd1eeaf8daf62bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/1. 자동차 경주/📚 JavaScript Data Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b53fb2209d9b53b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/1. 자동차 경주/📚 JavaScript Data Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6984f04f5666877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/1. 자동차 경주/📚 Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbdb3fb758f3b472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/1. 자동차 경주/📚 Prototype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dbcc8c57b3e7643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/🚀 1단계 - 콘솔 기반 로또 게임.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfbc297c36cb7881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/📖 TDD와 리팩터링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07c324acb0ffe4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/📖 TDD로 자동차 경주 게임 구현해보기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "464d593d64a80252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/📚 DOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7a5607d800c49de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/📚 BOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74617e28de288085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/📚 Event.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30367420b1e239f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강의/class 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 21
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdc0c9e82de4568e",
+    "type": "split",
+    "children": [
+      {
+        "id": "250a3723f2036c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9590f210c47bda2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ad05442830b29b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "492d4a3a77bdc942",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70a1f8945684afdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b7c1648bbc4f89a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6af24d353b74db7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "강의/class 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c6223046c7743f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "강의/class 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "074b2082c0512669",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfc55fca4e1d4b77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "강의/class 3.md"
+              }
+            }
+          },
+          {
+            "id": "6374311df03d66a8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "9590f210c47bda2e",
+  "lastOpenFiles": [
+    "강의/class 2.md",
+    "강의/class 3.md",
+    "Level 1/2024-02-16.md",
+    "Level 1/2024-02-14.md",
+    "Mission/2. 로또/Todari - TDD.md",
+    "Mission/2. 로또/📖 TDD로 자동차 경주 게임 구현해보기.md",
+    "Mission/2. 로또/📚 CSS Layout, Box Model, Position, Flexbox.md",
+    "Mission/2. 로또/📚 Event.md",
+    "Mission/2. 로또/📚 BOM.md",
+    "Mission/2. 로또/📚 DOM.md",
+    "Mission/2. 로또/📖 TDD와 리팩터링.md",
+    "Mission/2. 로또/🚀 1단계 - 콘솔 기반 로또 게임.md",
+    "Mission/1. 자동차 경주/📚 Prototype.md",
+    "Mission/1. 자동차 경주/📚 Object.md",
+    "Mission/1. 자동차 경주/📚 JavaScript Data Types.md",
+    "Question.md",
+    "Mission/1. 자동차 경주/📚 Execution Context & Scope.md",
+    "Mission/1. 자동차 경주/📖 단위 테스트 (with Jest).md",
+    "Mission/1. 자동차 경주/📖 좋은 코드.md",
+    "Mission/1. 자동차 경주/🚀 2단계 - 자동차 경주 리팩터링.md",
+    "Mission/1. 자동차 경주/📖 자동차 경주 피드백 (2).md",
+    "무제 폴더",
+    "Mission/1. 자동차 경주/📖 자동차 경주 피드백 (1).md",
+    "Mission/Mission - 리뷰 요청.md",
+    "Mission/2. 로또",
+    "연극",
+    "SS - 연극 대본.md",
+    "Mission/1. 자동차 경주/🚀 1단계 - 자동차 경주 기능 구현.md",
+    "Excalidraw/Drawing 2024-02-15 11.11.50.excalidraw.md",
+    "Pasted image 20240216120422.png",
+    "Excalidraw",
+    "Mission/1. 자동차 경주",
+    "Mission",
+    "Level 1",
+    "무제 파일.canvas",
+    "강의"
+  ]
+}
