@@ -265,14 +265,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의/class 3.md",
+                "file": "Level 1/2024-02-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9322b75e4344e3a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/1. 자동차 경주/📖 자동차 경주 피드백 (2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2398133aed889969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Question.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b7a87162f6e9274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/🚀 1단계 - 콘솔 기반 로또 게임.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da445db2bec57b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/🚀 2단계 - 웹 기반 로또 게임.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "807647307b4c01d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/📖 객체를 객체답게.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63d0fbef00eee566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/📖 함수를 잘 활용하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e3afc38f84298ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission/2. 로또/유용한 Figam 기능들.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -338,7 +422,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 1/2024-02-14.md",
+                "file": "Mission/2. 로또/유용한 Figam 기능들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +439,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 1/2024-02-14.md",
+                "file": "Mission/2. 로또/유용한 Figam 기능들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +462,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 1/2024-02-14.md"
+                "file": "Mission/2. 로또/유용한 Figam 기능들.md"
               }
             }
           },
@@ -408,43 +492,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9590f210c47bda2e",
+  "active": "5e3afc38f84298ec",
   "lastOpenFiles": [
-    "강의/class 2.md",
-    "강의/class 3.md",
+    "src/스크린샷 2024-02-26 오후 12.59.39.png",
+    "Mission/2. 로또/유용한 Figam 기능들.md",
+    "src/스크린샷 2024-02-26 오후 1.15.54.png",
+    "src/스크린샷 2024-02-26 오후 1.15.51.png",
+    "src/스크린샷 2024-02-26 오후 1.17.13.png",
+    "src/스크린샷 2024-02-26 오후 1.16.02.png",
+    "Mission/2. 로또/📖 함수를 잘 활용하기.md",
+    "Mission/2. 로또/📖 객체를 객체답게.md",
+    "Level 1/2024-02-23.md",
+    "Mission/2. 로또/🚀 2단계 - 웹 기반 로또 게임.md",
+    "Mission/2. 로또/Todari - TDD.md",
+    "SS/onboading 연극 배경.md",
+    "Question.md",
+    "TODO.md",
+    "SS/onboarding 연극 대본.md",
+    "SS/[6기 레벨1] 마인드셋 토론회.pdf",
+    "Level 1/2024-02-21.md",
     "Level 1/2024-02-16.md",
     "Level 1/2024-02-14.md",
-    "Mission/2. 로또/Todari - TDD.md",
-    "Mission/2. 로또/📖 TDD로 자동차 경주 게임 구현해보기.md",
-    "Mission/2. 로또/📚 CSS Layout, Box Model, Position, Flexbox.md",
-    "Mission/2. 로또/📚 Event.md",
-    "Mission/2. 로또/📚 BOM.md",
-    "Mission/2. 로또/📚 DOM.md",
-    "Mission/2. 로또/📖 TDD와 리팩터링.md",
+    "강의/class 2.md",
+    "강의/class 3.md",
     "Mission/2. 로또/🚀 1단계 - 콘솔 기반 로또 게임.md",
-    "Mission/1. 자동차 경주/📚 Prototype.md",
-    "Mission/1. 자동차 경주/📚 Object.md",
-    "Mission/1. 자동차 경주/📚 JavaScript Data Types.md",
-    "Question.md",
-    "Mission/1. 자동차 경주/📚 Execution Context & Scope.md",
-    "Mission/1. 자동차 경주/📖 단위 테스트 (with Jest).md",
-    "Mission/1. 자동차 경주/📖 좋은 코드.md",
-    "Mission/1. 자동차 경주/🚀 2단계 - 자동차 경주 리팩터링.md",
-    "Mission/1. 자동차 경주/📖 자동차 경주 피드백 (2).md",
-    "무제 폴더",
-    "Mission/1. 자동차 경주/📖 자동차 경주 피드백 (1).md",
     "Mission/Mission - 리뷰 요청.md",
+    "Mission/2. 로또/PR Message.md",
+    "src/프린글스 연극.pdf",
+    "Mission/1. 자동차 경주/📖 자동차 경주 피드백 (2).md",
+    "SS",
+    "src/Excalidraw/Drawing 2024-02-15 11.11.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-21 17.30.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-21 17.30.06.excalidraw.md",
+    "Excalidraw",
+    "src",
+    "Mission/2. 로또/📚 CSS Layout, Box Model, Position, Flexbox.md",
+    "Mission/2. 로또/📚 BOM.md",
+    "Mission/2. 로또/📖 TDD와 리팩터링.md",
     "Mission/2. 로또",
     "연극",
-    "SS - 연극 대본.md",
-    "Mission/1. 자동차 경주/🚀 1단계 - 자동차 경주 기능 구현.md",
-    "Excalidraw/Drawing 2024-02-15 11.11.50.excalidraw.md",
     "Pasted image 20240216120422.png",
-    "Excalidraw",
+    "src/Excalidraw",
     "Mission/1. 자동차 경주",
     "Mission",
-    "Level 1",
-    "무제 파일.canvas",
-    "강의"
+    "무제 파일.canvas"
   ]
 }
